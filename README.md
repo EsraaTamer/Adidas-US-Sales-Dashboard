@@ -73,8 +73,3 @@ The objective of this project is to analyze revenue drivers, monitor profitabili
 * Raw Dataset
 * Excel Dashboard File
 * Dashboard Preview Image
-
----
-
-If you want something slightly more advanced and impressive for recruiters, tell me — I can upgrade this to a stronger “Data Analyst Portfolio Version” 🔥
-jjjj

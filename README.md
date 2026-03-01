@@ -73,3 +73,7 @@ The objective of this project is to analyze revenue drivers, monitor profitabili
 * Raw Dataset
 * Excel Dashboard File
 * Dashboard Preview Image
+
+---
+## Dashboard Overview
+<img width="1557" height="684" alt="image" src="https://github.com/user-attachments/assets/40967381-8e45-46e4-bbff-bf6a0f94f4fc" />

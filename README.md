@@ -76,4 +76,5 @@ The objective of this project is to analyze revenue drivers, monitor profitabili
 
 ---
 ## Dashboard Overview
-<img width="1557" height="684" alt="image" src="https://github.com/user-attachments/assets/40967381-8e45-46e4-bbff-bf6a0f94f4fc" />
+<img width="1228" height="662" alt="image" src="https://github.com/user-attachments/assets/fb10851c-1f4c-4424-8ab2-18c4a3248c34" />
+
